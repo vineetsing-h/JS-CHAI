@@ -21,6 +21,6 @@ let state = null
 
 console.log(typeof "Vineet")  // string
 console.log(typeof null);     // object
-console.log(typeof undefined); // undefined
+console.log(typeof undefined);   // undefined
 
 
